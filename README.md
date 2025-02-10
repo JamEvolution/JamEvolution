@@ -1,4 +1,4 @@
-# Merhaba, ben [Your Name]! 👋
+# Merhaba, ben Murat
 
 Ben bir **Mobil Uygulama Geliştiricisi**yim. Android, iOS ve diğer mobil platformlar için uygulamalar geliştiriyorum. Özellikle **Kotlin, Java ve Dart** dillerinde uzmanım. Flutter kullanarak modern, dinamik ve kullanıcı dostu mobil uygulamalar oluşturuyorum.
 
@@ -25,7 +25,7 @@ Ben bir **Mobil Uygulama Geliştiricisi**yim. Android, iOS ve diğer mobil platf
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamEvolution&show_icons=true&theme=radical)
 
 ## İletişim
 

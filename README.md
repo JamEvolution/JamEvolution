@@ -1,16 +1,37 @@
-## Hi there 👋
+# Merhaba, ben [Your Name]! 👋
 
-<!--
-**JamEvolution/JamEvolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir **Mobil Uygulama Geliştiricisi**yim. Android, iOS ve diğer mobil platformlar için uygulamalar geliştiriyorum. Özellikle **Kotlin, Java ve Dart** dillerinde uzmanım. Flutter kullanarak modern, dinamik ve kullanıcı dostu mobil uygulamalar oluşturuyorum.
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Adım:** Murat
+- **Meslek:** Mobil Uygulama Geliştiricisi
+- **Uzmanlık Alanlarım:**
+  - Android (Kotlin, Java)
+  - Flutter (Dart)
+  - *iOS (Swift)* 
+- **İlgi Alanlarım:**
+  - Mobil teknolojiler ve yenilikler
+  - Clean Architecture, MVVM, MVP gibi modern mimari yaklaşımlar
+  - Siber Güvenlik
+  - Satranç
+
+## Yetenekler
+
+- **Programlama Dilleri:** Kotlin, Java, Dart
+- **Framework & Teknolojiler:** Flutter, Android SDK, Firebase, REST API, GraphQL
+- **Araçlar:** Android Studio, IntelliJ IDEA, VS Code, Git, GitHub
+- **Metodolojiler:** Agile, Scrum, Takım Çalışması
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## İletişim
+
+- **E-posta:** (muratzabun.mobile@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muratzabun/)
+
+---
+
+**Not:** GitHub profilimde mobil uygulama geliştirme projelerime ve diğer teknolojik çalışmalarımı bulabilirsiniz. İlginizi çekebilecek konularda katkıda bulunabilir veya projelerim hakkında daha fazla bilgi almak için benimle iletişime geçebilirsiniz.

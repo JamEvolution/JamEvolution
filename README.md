@@ -19,7 +19,7 @@ Ben bir **Mobil Uygulama Geliştiricisi**yim. Android, iOS ve diğer mobil platf
 ## Yetenekler
 
 - **Programlama Dilleri:** Kotlin, Java, Dart
-- **Framework & Teknolojiler:** Flutter, Android SDK, Firebase, REST API, GraphQL
+- **Framework & Teknolojiler:** Flutter, Android SDK, JetpackCompose, SwiftUi, Firebase, REST API, GraphQL
 - **Araçlar:** Android Studio, IntelliJ IDEA, VS Code, Git, GitHub
 - **Metodolojiler:** Agile, Scrum, Takım Çalışması
 

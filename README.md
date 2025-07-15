@@ -8,7 +8,7 @@
 - **Rol:** Senior Mobile Developer & Mobile DevOps Engineer
 - **Lokasyon:** Türkiye
 - **Deneyim:** 5+ yıl profesyonel yazılım geliştirme
-- **Odak Alanları:** Cross-platform & Native mobil geliştirme, CI/CD otomasyonu, Test yazılım geliştirme, Mobil yazılım mimarileri, 
+- **Odak Alanları:** Cross-platform & Native mobil geliştirme, CI/CD otomasyonu, Test yazılım geliştirme, Mobil yazılım mimarileri 
 
 ## Teknik Uzmanlık Alanlarım
 

@@ -33,8 +33,6 @@
 - **Containerization:** Docker
 - **Cloud Services:** AWS, Google Cloud Platform, Firebase, Azure
 - **Notification:** Slack, Teams
-- **Infrastructure as Code:** Terraform, Ansible (Henüz değil ama olur :)
-- **Monitoring:** Grafana, Prometheus, Sentry (Henüz değil ama olur :)
 
 ### **Backend & Full-Stack**
 - **Languages:** Python, Node.js
